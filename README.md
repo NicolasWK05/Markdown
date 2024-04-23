@@ -1,2 +1,1 @@
-# Markdown
-Just a little markdown repo for school purposes.
+### _**Images can be found in /images**_
